@@ -63,6 +63,18 @@ class FeatureInput(object):
         return f0_coarse
 ```
 
+使用开源库实现的用于特定场景的独有代码，就不能是原创？在你们那里就是1+1=2的常识？
+
+大部分数学推导都由四则运算实现，按你们的逻辑，所以使用四则运算的数学推导都不构成原创？
+
+这就是你们违反开源协议理由，窃取别人代码，还反过来各种贼喊捉贼？
+
+直接拷贝代码文件，都还能说成来自world库的示例，一个人竟然可以无耻到这样的地步，真真是刷新了我的认知。
+
+上面代码是world库的示例，请把代码链接放出来？
+
+直接拷贝代码文件都能说的如此无耻，更何况代码背后还涉及的系统架构结构没法举证的呢？高知青年就这样？
+
 # data-sets
 KiSing      http://shijt.site/index.php/2021/05/16/kising-the-first-open-source-mandarin-singing-voice-synthesis-corpus/
 
