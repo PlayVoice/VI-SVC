@@ -75,6 +75,10 @@ class FeatureInput(object):
 
 直接拷贝代码文件都能说的如此无耻，更何况代码背后还涉及的系统架构结构没法举证的呢？高知青年就这样？
 
+# Rcell对抄袭的回应
+
+![rcell](https://github.com/PlayVoice/so-vits-svc-5.0/assets/16432329/998e2aaa-3547-44ec-bf49-3925f8aa1921)
+
 # data-sets
 KiSing      http://shijt.site/index.php/2021/05/16/kising-the-first-open-source-mandarin-singing-voice-synthesis-corpus/
 
