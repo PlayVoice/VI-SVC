@@ -73,7 +73,7 @@ class FeatureInput(object):
 
 你们说上面代码是world库的示例，请把代码**链接**放出来？
 
-**直接拷贝**代码文件都能说的如此无耻，，更何况代码背后还涉及的系统架构、设计思想等没法举证的呢？
+**直接拷贝**代码文件都能说的如此无耻，更何况代码背后还涉及的系统架构、设计思想等没法举证的呢？
 
 高知青年就这样？
 
@@ -83,7 +83,7 @@ class FeatureInput(object):
 
 ![coarse_f0_main](https://github.com/PlayVoice/so-vits-svc-5.0/assets/16432329/aa0d4683-318b-47ad-88c1-d6f8950f4ce8)
 
-可以看到，只有在使用从本项目拷贝的代码后，他们的项目才**步入正规**，之前都是瞎搞
+可以看到，只有在使用从本项目拷贝的代码后，他们的项目才**步入正轨**，之前都是瞎搞
 
 但其开发者，在消化融合本项目代码后，将本项目的项目信息删除，理由竟然是相关代码为**world库示例**，将**直接拷贝代码的行为称为代码相似**
 
@@ -91,7 +91,7 @@ class FeatureInput(object):
 
 这就不奇怪他们能将BigVGAN称为他们原创HiFiGAN-with-snake声码器了
 
-各位：不感兴趣的当个笑话看，感兴趣的用您的智慧去阅读代码，不要被任何一方有偏见的发言带节奏
+各位看官：不感兴趣的当个笑话看，感兴趣的用您的智慧去阅读代码，不要被任何一方有偏见的发言带节奏
 
 # data-sets
 KiSing      http://shijt.site/index.php/2021/05/16/kising-the-first-open-source-mandarin-singing-voice-synthesis-corpus/
